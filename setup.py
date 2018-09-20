@@ -26,7 +26,7 @@ setuptools.setup(
     [
         'numpy',
         'mountainlab_pytools',
-        'mlprocessors'
+        'mlprocessors',
         'h5py'
     ],
     classifiers=(
